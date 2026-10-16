@@ -1,0 +1,11 @@
+# Local database credentials. Keep this file private.
+config/db.properties
+
+# Maven build output.
+target/
+
+# Operating-system and IDE files.
+.DS_Store
+.idea/
+*.iml
+.vscode/

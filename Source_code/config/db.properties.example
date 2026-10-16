@@ -1,0 +1,5 @@
+# Copy this file to db.properties in the same folder, then enter your local MySQL details.
+# Do not commit db.properties because it contains your password.
+db.url=jdbc:mysql://localhost:3307/campus_ict_db?useSSL=false&serverTimezone=UTC
+db.username=your_mysql_username
+db.password=your_mysql_password

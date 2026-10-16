@@ -1,0 +1,14 @@
+# Private local database configuration.
+**/config/db.properties
+
+# Generated build output.
+**/target/
+
+# IDE metadata.
+.idea/
+.vscode/
+*.iml
+
+# Local diagnostic and archive files.
+*.log
+*.zip
